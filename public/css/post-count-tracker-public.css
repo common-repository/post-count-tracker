@@ -1,0 +1,14 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+
+.pct-post-views {
+    display: flex;
+    align-items: center;
+}
+
+.pct-post-views img {
+    margin-right: 10px;
+    max-width: 20px !important;
+}
